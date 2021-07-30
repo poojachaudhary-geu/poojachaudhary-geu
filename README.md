@@ -1,4 +1,4 @@
-### Hi there Hi.gif
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <!--
 **poojachaudhary-geu/poojachaudhary-geu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
